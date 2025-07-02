@@ -1,6 +1,6 @@
 # 💼 Projeto Calculo Certo Contabil 
 
-Este é um projeto de site de contabilidade com objetivo de aprimorar habilidades em HTML, CSS e JavaScript. O fovo principal é construção de um layout responsivo, organixzado e funcional que simule uma presença online proficional para um escritório de contabilidade. 
+Este é um projeto de site de contabilidade com objetivo de aprimorar habilidades em HTML, CSS e JavaScript. O foco principal é construção de um layout responsivo, organizado e funcional que simule um escritório de contabilidade online e profissional. 
 
 
 # 📌 Objetivo do Projeto: 
